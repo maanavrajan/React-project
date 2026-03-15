@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React-project
 =======
 # React + Vite
